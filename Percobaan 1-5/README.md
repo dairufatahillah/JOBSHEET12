@@ -16,6 +16,7 @@
 1. Tidak,Fungsi tanpa parameter bisa mengembalikan nilai seperti `int, double, atau String` asalkan menggunakan kata kunci return.
 
 2. BISA. Caranya dengan memindahkan perintah `System.out.println` langsung ke dalam `main`
+
 ![alt text](image-3.png)
 
 3. 
@@ -64,7 +65,8 @@
 
 5. Akan terjadi Compile Time Error. Java mewajibkan jumlah dan tipe data argumen saat pemanggilan harus sama persis dengan definisi parameternya.
 
-6. Modifikasi Mode
+6. Modifikasi mode
+
 ![alt text](image-4.png)
 
 7. berhasil di jalankan dan memberikan `promo berlaku: Diskon 30%!`
